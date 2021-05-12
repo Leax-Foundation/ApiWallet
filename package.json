@@ -60,7 +60,7 @@
     "https": "^1.0.0",
     "ipfs-api": "^24.0.1",
     "more-entropy": "0.0.7",
-    "nodemailer": "^4.6.8",
+    "nodemailer": "^6.4.16",
     "request": "^2.88.0",
     "rlp": "^2.1.0",
     "scrypt-async": "^1.2.0",
